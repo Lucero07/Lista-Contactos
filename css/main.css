@@ -1,0 +1,17 @@
+body {
+  padding-top: 5%;
+}
+.navbar-default{
+  background-color: #e2abec;
+}
+.navbar{
+  min-height:5%;
+  margin-bottom: 0;
+}
+#seccion1{
+  background-image: url("../img/amigos.jpeg");
+  background-size: cover;
+}
+.modal-content{
+  background-color: #2196F3;
+}
