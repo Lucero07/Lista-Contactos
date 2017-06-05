@@ -1,5 +1,5 @@
 body {
-  padding-top: 5%;
+  padding-top: 7%;
 }
 .navbar-default{
   background-color: #e2abec;
@@ -9,9 +9,15 @@ body {
   margin-bottom: 0;
 }
 #seccion1{
-  background-image: url("../img/amigos.jpeg");
+  background-color: #bb609f;
   background-size: cover;
 }
 .modal-content{
   background-color: #2196F3;
+}
+.ocultar{
+  display: none !important;
+}
+.mostrar{
+  display:block !important
 }
